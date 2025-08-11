@@ -1,9 +1,4 @@
 
-# Induction Program 
-
-## DAY 1
-
-
 # Induction
 
     Name:- 
