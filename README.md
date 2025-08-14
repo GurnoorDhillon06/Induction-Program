@@ -1,10 +1,10 @@
 
-# Induction
+# Induction Program 
 
-    Name:- 
-    Fater's Name:-
-    Branch:- 
-    Section:- 
+    Name:- Gurnoor Singh 
+    Fater's Name:- Manjinder Singh
+    Branch:- CSE
+    Section:- CSB2
 
 
 ## Day 1 (July,31 2025)
